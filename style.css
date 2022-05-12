@@ -76,7 +76,7 @@ nav .logo path[fill*='#00856F'],
   stroke: var(--primary-color);
 }
 
-#depoimentos .wrapper path {
+#depoimentos .wrapper path[fill*='#C92A2A'] {
   fill: var(--primary-color);
 }
 
